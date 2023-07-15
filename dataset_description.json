@@ -3,14 +3,15 @@
     "BIDSVersion": "1.8.0",
     "License": "CC0",
     "Authors": [
-        "Kimberly J Hemmerling",
-        "Mark A Hoggarth",
-        "Todd B Parrish",
-        "Molly G Bright"
+      "Kimberly J Hemerling",
+      "Mark A Hoggarth",
+      "Milap S Sandhu",
+      "Todd B Parrish",
+      "Molly G Bright"
     ],
     "HowToAcknowledge": "Please cite this paper: Kimberly J. Hemmerling, Mark A. Hoggarth, Milap S. Sandhu, Todd B. Parrish, Molly G. Bright (2023) Spatial distribution of hand-grasp motor task activity in spinal cord functional magnetic resonance imaging; bioRxiv 2023.04.25.537883; doi: https://doi.org/10.1101/2023.04.25.537883",
     "Funding": [
-        "Craig H. Neilsen Foundation 595499",
-        "NIH Funded Training Program (KJH) T32EB025766"
+      "Craig H. Neilsen Foundation 595499",
+      "NIH Funded Training Program (KJH) T32EB025766"
     ]
-}
+  }
