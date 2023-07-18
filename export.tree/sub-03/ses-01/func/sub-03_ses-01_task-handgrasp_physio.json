@@ -1,5 +1,0 @@
-{
-"SamplingFrequency": 100,
-"StartTime": 0,
-"Columns":["trigger","CO2","O2","respiratory","cardiac","right_grip","left_grip"]
-}
